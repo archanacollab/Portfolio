@@ -1,2 +1,2 @@
 console.log("Welcome to Archana's Portfolio!");
-alert("Welcome to my Portfolio!");
+document.body.insertAdjacentHTML('afterbegin', '<p style="text-align:center; color:green;">Welcome to my Portfolio!</p>');
